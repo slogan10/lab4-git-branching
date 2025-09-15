@@ -15,7 +15,7 @@ You will:
 ## Branch Summaries
 
 - `main`: Original story starter
-- `hero-path`: _[Describe your changes here]_
+- `hero-path`: Changed left path to attempt to pull the sword from the stone, but it mysteriously vanishes into the sky, before crashing down on an evil beast after it attacks you, leaving the beast slain. then, you approach a village and inform the villagers that you have defeated said evil beast and they thank you for defeating their tormentor.
 - `villain-path`: _[Describe your changes here]_
 
 ## Final Checklist
