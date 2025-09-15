@@ -16,7 +16,7 @@ You will:
 
 - `main`: Original story starter
 - `hero-path`: _[Describe your changes here]_
-- `villain-path`: _[Describe your changes here]_
+- `villain-path`: You venture to the right path, and get caught up in a duel with a talking squirrel. After defeating him, you get the location to his acorn stash and leave him bound to a tree. You then locate the stash, eat the acorns, and leave him and his family to go hungry.
 
 ## Final Checklist
 
