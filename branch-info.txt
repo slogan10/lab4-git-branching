@@ -10,10 +10,20 @@ Branches in this repo (with details):
     e38e08e | Author: Logan Sekutowski <232259444+slogan10@users.noreply.github.com> | Committer: Logan Sekutowski <232259444+slogan10@users.noreply.github.com> | Date: 2025-09-15T15:32:54-04:00 | added a center path
     b7b1293 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-15T19:01:29Z | Auto-update branch-info.txt
 - main
-  SHA: b868eb87dd77aaf75789160149ab1d56e886244c
-  Commits: 4
+  SHA: bc5e41fb9903196d04f2dce29609d1a3dc29e91c
+  Commits: 5
   Recent commits:
+    bc5e41f | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-15T19:53:53Z | Auto-update branch-info.txt
     b868eb8 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-15T19:52:44Z | Auto-update branch-info.txt
     e38e08e | Author: Logan Sekutowski <232259444+slogan10@users.noreply.github.com> | Committer: Logan Sekutowski <232259444+slogan10@users.noreply.github.com> | Date: 2025-09-15T15:32:54-04:00 | added a center path
     b7b1293 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-15T19:01:29Z | Auto-update branch-info.txt
     be1c8e7 | Author: Logan Sekutowski <232259444+slogan10@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-15T15:01:17-04:00 | Initial commit
+- villain-path
+  SHA: 488b59bb1b926e13c64bd45ec7d32de77e10d18a
+  Commits: 8
+  Recent commits:
+    488b59b | Author: Logan Sekutowski <232259444+slogan10@users.noreply.github.com> | Committer: Logan Sekutowski <232259444+slogan10@users.noreply.github.com> | Date: 2025-09-15T20:12:18Z | updated README.md with villain path summary
+    f54bf2f | Author: Logan Sekutowski <232259444+slogan10@users.noreply.github.com> | Committer: Logan Sekutowski <232259444+slogan10@users.noreply.github.com> | Date: 2025-09-15T20:09:03Z | added right path after defeating squirrel, tie him up and locate his acorns, then eat them all for yourself, leaving him and his family nothing.
+    d86b459 | Author: Logan Sekutowski <232259444+slogan10@users.noreply.github.com> | Committer: Logan Sekutowski <232259444+slogan10@users.noreply.github.com> | Date: 2025-09-15T20:06:13Z | added right path defeat squirrel in combat and find out the location of his acorn stash
+    bc5e41f | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-15T19:53:53Z | Auto-update branch-info.txt
+    b868eb8 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-15T19:52:44Z | Auto-update branch-info.txt
