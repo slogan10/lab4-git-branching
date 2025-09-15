@@ -1,9 +1,19 @@
 Branches in this repo (with details):
 
-- main
-  SHA: e38e08e59c7daa1adedd07141fd17d6438465b72
-  Commits: 3
+- hero-path
+  SHA: ca6399e4fb47d844972ed1ca373fb3ebcf044f92
+  Commits: 6
   Recent commits:
+    ca6399e | Author: Logan Sekutowski <232259444+slogan10@users.noreply.github.com> | Committer: Logan Sekutowski <232259444+slogan10@users.noreply.github.com> | Date: 2025-09-15T15:52:10-04:00 | summarized hero path in README.md
+    816a04a | Author: Logan Sekutowski <232259444+slogan10@users.noreply.github.com> | Committer: Logan Sekutowski <232259444+slogan10@users.noreply.github.com> | Date: 2025-09-15T15:46:40-04:00 | made the sword kill an evil beast, then have villagers thank you on the left path
+    9022014 | Author: Logan Sekutowski <232259444+slogan10@users.noreply.github.com> | Committer: Logan Sekutowski <232259444+slogan10@users.noreply.github.com> | Date: 2025-09-15T15:42:01-04:00 | made the sword fly off on the left path
+    e38e08e | Author: Logan Sekutowski <232259444+slogan10@users.noreply.github.com> | Committer: Logan Sekutowski <232259444+slogan10@users.noreply.github.com> | Date: 2025-09-15T15:32:54-04:00 | added a center path
+    b7b1293 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-15T19:01:29Z | Auto-update branch-info.txt
+- main
+  SHA: b868eb87dd77aaf75789160149ab1d56e886244c
+  Commits: 4
+  Recent commits:
+    b868eb8 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-15T19:52:44Z | Auto-update branch-info.txt
     e38e08e | Author: Logan Sekutowski <232259444+slogan10@users.noreply.github.com> | Committer: Logan Sekutowski <232259444+slogan10@users.noreply.github.com> | Date: 2025-09-15T15:32:54-04:00 | added a center path
     b7b1293 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-15T19:01:29Z | Auto-update branch-info.txt
     be1c8e7 | Author: Logan Sekutowski <232259444+slogan10@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-15T15:01:17-04:00 | Initial commit
