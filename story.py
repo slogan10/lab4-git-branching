@@ -13,6 +13,8 @@ def intro():
 def left_path():
     print("You walk left and find a mysterious glowing sword stuck in a stone.")
     print("You pull with all of your might on the sword and it won't budge, until suddenly it shoots off into the sky and vanishes")
+    print("Suddenly on the path you encounter a fierce beast, it attacks you and the sword crashes down from the sky piercing through the beast and finding its way into your hands")
+    print("after the beast is slain, you approach a village, after seeing the sword in your hands the villagers are in awe, and after you inform them of the beast's fate they thank you for saving them from the evil beast")
 
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
